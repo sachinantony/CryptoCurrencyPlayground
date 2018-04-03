@@ -1,4 +1,4 @@
-# Assignment 1, ScroogeCoin Transaction Management
+# ScroogeCoin Transaction Management
 
 To test the program 
 1. Download the whole repository  
